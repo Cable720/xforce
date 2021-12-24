@@ -1,0 +1,9 @@
+<item>
+	<title>test</title>
+	<link>
+		<sublink name= link1>link to file</sublink>
+		<sublink name= link2>link to file</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
