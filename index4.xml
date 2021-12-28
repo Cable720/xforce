@@ -36,65 +36,65 @@
 <plugin>
 <name>French_movies</name>
 <link>http://103.152.18.18/Data/French_movies/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Hindi</name>
 <link>http://103.152.18.18/Data/Hindi/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Indian Bangla</name>
 <link>http://103.152.18.18/Data/Indian%20Bangla/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Japanese_movies</name>
 <link>http://103.152.18.18/Data/Japanese_movies/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Korean</name>
 <link>http://103.152.18.18/Data/Korean/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Tv Series</name>
 <link>http://103.152.18.18/Data/Tv%20Series/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>imdb 250</name>
 <link>http://103.152.18.18/Data/imdb%20250/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>tamil</name>
 <link>http://103.152.18.18/Data/tamil/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Movie3</name>
 <link>https://s1.my-film.pw/Movie3/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Movie1</name>
 <link>https://s1.my-film.pw/Moviesub/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Movies</name>
 <link>http://www.djnutte.com/movies/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
