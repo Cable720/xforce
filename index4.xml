@@ -18,19 +18,19 @@
 <plugin>
 <name>Animation</name>
 <link>http://103.152.18.18/Data/Animation/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>Chinese_movies</name>
 <link>http://103.152.18.18/Data/Chinese_movies/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
 <name>English</name>
 <link>http://103.152.18.18/Data/English/</link>
-<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+<thumbnail></thumbnail>
 </plugin>
 
 <plugin>
