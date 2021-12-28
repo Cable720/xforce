@@ -1,0 +1,21 @@
+<item>
+<title>we do not host these movies they are hosted elsewhere </title>
+<link>$doregex[hd]</link>
+<regex>
+<name>[COLOR red]hd[/COLOR]</name>
+<listrepeat><![CDATA[
+   <title>[COLOR red][hd.param3][/COLOR] [COLOR white]([hd.param1])[/COLOR]</title>
+   <link>http://103.222.20.150/ftpdata/Movies/Hollywood/[hd.param3].[hd.param1][hd.param2]</link>
+   <thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href.*?(\d{3,4}p)(.+?[mkv|avi|mp4])">(.*?)\.(?:720p|1080p)]]></expres>
+<page>http://103.222.20.150/ftpdata/Movies/Hollywood/</page>
+</regex>
+<thumbnail>http://karnage.dark-avengers.com/images/icons/karicon.jpg</thumbnail>
+</item>
+
+<plugin>
+<name>Index 1 Mixed Movies</name>
+<link>https://dvdloc8.com/index/movie_i_page_15.html</link>
+<thumbnail>https://repo.encrypticmh.appboxes.co/xml/boogey/oneclick.PNG</thumbnail>
+</plugin>
