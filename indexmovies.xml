@@ -25,3 +25,15 @@
 <link>http://flixhub.net/Data/</link>
 <thumbnail></thumbnail>
 </plugin>
+
+<plugin>
+<name>Index Mixed USA Movies 3</name>
+<link>http://162.12.215.254/Data/Movies/Hollywood/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>Index OF Animation Movies 4</name>
+<link>https://185.107.32.136/Animation/</link>
+<thumbnail></thumbnail>
+</plugin>
